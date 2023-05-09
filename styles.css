@@ -105,3 +105,7 @@ input:focus{
   background-color: rgb(37,77,69);
 
 }
+
+#password-message{
+  display: none;
+}
